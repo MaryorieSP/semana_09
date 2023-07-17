@@ -32,7 +32,7 @@ class EmployeeList extends React.Component{
 			<Employee key={employee._links.self.href} employee={employee}/>
 		);
 		return (
-			<table class="table table-striped">
+			<table>
 				<tbody>
 					<tr>
 						<th>First Name</th>
