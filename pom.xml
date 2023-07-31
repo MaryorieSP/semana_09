@@ -59,7 +59,6 @@
 				<artifactId>frontend-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		
 		<pluginManagement>
 			<plugins>
 				<!-- tag::frontend-maven-plugin[] -->
